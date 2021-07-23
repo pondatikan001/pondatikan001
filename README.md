@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img align="center" src="https://github.com/pondatikan001/pondatikan001/blob/main/25f88b78-4158-11e3-9b23-43596516362c.png"/>
 <!--
 **pondatikan001/pondatikan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
