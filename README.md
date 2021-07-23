@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img align="center" src="https://github.com/pondatikan001/pondatikan001/blob/main/25f88b78-4158-11e3-9b23-43596516362c.png"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pondatikan001&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
