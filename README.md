@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm PangPond</h1>
+<h1 align="center">HeyBro 👋, I'm PangPond</h1>
 <h3 align="center">A passionate frontend developer from ThaiLand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pondatikan001&label=Profile%20views&color=0e75b6&style=flat" alt="pondatikan001" /> </p>
