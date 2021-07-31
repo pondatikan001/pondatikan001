@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=great-gatsby" alt="pondatikan001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pondatikan001&" alt="pondatikan001" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pondatikan001&theme=great-gatsby" alt="pondatikan001" /></p>
