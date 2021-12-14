@@ -1,5 +1,6 @@
 <h1 align="center">HeyBro 👋, I'm PangPond</h1>
 <h3 align="center">A passionate frontend developer from ThaiLand</h3>
+<h3 align="center">Intership UX & UI Design At Paduaykanmai</h3>
 <h3 align="center">lll</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pondatikan001&label=Profile%20views&color=0e75b6&style=flat" alt="pondatikan001" /> </p>
 
